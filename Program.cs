@@ -27,7 +27,8 @@ builder.Services.AddCors(options =>
     {
         builder.WithOrigins(
             "http://localhost:5173", // Local development
-            "https://gray-coast-07cd65903.1.azurestaticapps.net" // Azure Static Web App
+            "https://ashy-bay-0b0f05003.6.azurestaticapps.net", // New Azure Static Web App
+            "https://userserviceshram-gxhcchhrevexgxep.swedencentral-01.azurewebsites.net" // UserService
         )
         .AllowAnyMethod()
         .AllowAnyHeader()

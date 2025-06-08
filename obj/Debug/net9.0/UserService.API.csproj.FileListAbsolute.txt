@@ -195,3 +195,10 @@ C:\Projects\FullStackAPI\Backend\UserService.API\bin\Debug\net9.0\Microsoft.Exte
 C:\Projects\FullStackAPI\Backend\UserService.API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
 C:\Projects\FullStackAPI\Backend\UserService.API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
 C:\Projects\FullStackAPI\Backend\UserService.API\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Projects\FullStackAPI\Backend\UserService.API\bin\Debug\net9.0\publish\web.config
+C:\Projects\FullStackAPI\Backend\UserService.API\bin\Debug\net9.0\publish\appsettings.Development.json
+C:\Projects\FullStackAPI\Backend\UserService.API\bin\Debug\net9.0\publish\appsettings.json
+C:\Projects\FullStackAPI\Backend\UserService.API\bin\Debug\net9.0\publish\UserService.API.deps.json
+C:\Projects\FullStackAPI\Backend\UserService.API\bin\Debug\net9.0\publish\UserService.API.runtimeconfig.json
+C:\Projects\FullStackAPI\Backend\UserService.API\bin\Debug\net9.0\publish\UserService.API.staticwebassets.endpoints.json
+C:\Projects\FullStackAPI\Backend\UserService.API\obj\Debug\net9.0\UserService.API.sourcelink.json
